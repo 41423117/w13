@@ -1,3 +1,7 @@
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
 repeat 6:
     move()
 turn_left()
@@ -19,3 +23,4 @@ repeat 9:
 turn_left()
 repeat 3:
     move()
+
